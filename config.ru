@@ -1,2 +1,2 @@
-require "./app"
-run Portfolio::App
+require_relative 'src/app'
+run MainApp
